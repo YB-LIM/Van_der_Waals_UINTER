@@ -2,7 +2,7 @@ C*****************************************************************
 C     UINTER subroutine example for Van der Waals interaction
 C   
 C     AUTHOR: Youngbin LIM
-C     CONTACT: Youngbin.LIM@3ds.com
+C     CONTACT: lyb0684@naver.com
 C
 C*****************************************************************
 C     PROPS(1)     : Van der Waals constants epsilon
