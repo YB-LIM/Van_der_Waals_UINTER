@@ -1,0 +1,10 @@
+**
+*PARAMETER
+Epsilon = 0.3
+Sigma = 0.01
+beta1 = 1.E4
+beta2 = 1.E4
+**
+*Surface Interaction, name=Van_der_Waals, user, properties=4
+1.,
+<Epsilon>, <Sigma>, <beta1>, <beta2>
