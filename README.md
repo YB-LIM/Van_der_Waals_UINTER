@@ -4,8 +4,8 @@ The implementation is based on Coarse-Grained Contact Model proposed by Sauer an
 Written on Intel® Fortran Version 19.0.5 (Abaqus 2023) <br>
 
 # Validation - Spherical indentation
-Abaqus result was compared with analytical Johnson-Kendall-Roberts (JKR) model for spherical indentation
-![그림14](https://github.com/YB-LIM/Van_der_Waals_UINTER/assets/105615106/a781c1ab-e824-4c22-82b5-d6d06eca2157)
+Abaqus result was compared with analytical Johnson-Kendall-Roberts (JKR) model for spherical indentation <br>
+![그림14](https://github.com/YB-LIM/Van_der_Waals_UINTER/assets/105615106/a781c1ab-e824-4c22-82b5-d6d06eca2157) <br>
 ![Indentation_Deform](https://github.com/YB-LIM/Van_der_Waals_UINTER/assets/105615106/5a160e77-d697-441b-b47c-9a1ad91f1e01)
 
 # References
