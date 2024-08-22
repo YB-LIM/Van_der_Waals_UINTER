@@ -1,7 +1,9 @@
 # Van_der_Waals_UINTER
 UINTER subroutine to model Van der Waals interaction on macro scopic scale <br>
 The implementation is based on Coarse-Grained Contact Model proposed by Sauer and Li, 2007<br>
-Written on Intel® Fortran Version 19.0.5 (Abaqus 2023) <br>
+Written on Intel® Fortran Version 19.0.5 (Abaqus 2023) <br><br>
+AUTHOR: Youngbin LIM<br>
+CONTACT: lyb0684@naver.com
 
 # Validation - Spherical indentation
 Abaqus result was compared with analytical Johnson-Kendall-Roberts (JKR) model for spherical indentation <br><br>
